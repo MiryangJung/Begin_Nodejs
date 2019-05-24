@@ -3,7 +3,7 @@
 **Node.js & Express.js for Beginners
 
 ## Blog Post
-
+https://dalhav.github.io/2019/05/25/begin-nodejs-1/
 
 ## Tech/framework used
  - Node.js
