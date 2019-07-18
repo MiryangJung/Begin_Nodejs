@@ -3,7 +3,7 @@
 **Node.js & Express.js for Beginners
 
 ## Blog Post
-[miryang.dev/2019/05/25/begin-nodejs-1/](https://miryang.dev/2019/05/25/begin-nodejs-1/)
+[miryang.dev/2019/05/25/begin-nodejs](https://miryang.dev/2019/05/25/begin-nodejs/)
 
 ## Tech/framework used
  - Node.js
